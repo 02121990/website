@@ -1,0 +1,112 @@
+
+
+
+
+
+
+@media (max-width:576px){
+
+}
+@media (min-width:577px)and (max-width:768px){
+    
+}
+@media (max-width:769px){
+    
+}
+  
+  
+  
+  
+  
+  
+  /************************/
+  html, body{
+        margin: 0;
+        height: 100%;
+        font-family: 'oswald',sans-serif;
+      
+       
+        
+    }
+    
+    
+    
+    
+    /***************************HEADER***************************************/
+    header{
+        position: relative;
+        right: 0;
+        left: 0;
+      
+        
+    
+    }
+    
+   
+    header a{
+        color:black; 
+        margin-left: 24px;
+        
+    }
+    header a:hover{
+        color: black; 
+    }
+    header a:visited{
+        color: black;
+        
+    } 
+    #menu-icon{
+        width: 32px;
+    }
+    /***************************END HEADER***************************************/
+    
+    
+    
+    
+    /*********************HERO SECTION***************************************/
+    #hero-section{
+        background-image: url(../img/hero.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        
+    }
+    h4{
+        position: absolute;
+        left: 170px;
+        right: 0;
+        display: block;
+        background: green;
+        width:510px;
+        height: 50px;
+        
+    }
+     /********************* END HERO SECTION***************************************/
+      
+     
+     /*********************INTRO SECTION***************************************/
+
+
+    /********************* END INTRO SECTION***************************************/  
+           
+    
+    /*********************ABOUT SECTION***************************************/
+#about-section{
+    background: white;
+}
+
+     /*********************END ABOUT SECTION***************************************/
+     #footer-section{
+        background:#212529;
+     }
+   
+     
+     #footer a{
+        color: white;
+     }
+     #footer{
+        background: black;
+    }
+    #table{
+        background:rgb(23, 22, 22);
+    }
